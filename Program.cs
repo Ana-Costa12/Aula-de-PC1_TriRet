@@ -27,7 +27,7 @@ namespace Aula_de_PC1_TriRet
             Console.Clear();
 
             Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine($"Sendo {Base} a base e {Altura} a altura, a área de seu triângulo é: {Area = Base * Altura / 2}");
+            Console.WriteLine($"Sendo {Base} a base e {Altura} a altura, a área de seu triângulo é: {Base * Altura / 2}");
             Console.ResetColor();
         }
     }
